@@ -7,9 +7,9 @@ Created on Tue Apr 23 20:32:26 2019
 
 
 #Purpose: Reposition loose images in a PTGUI Gigapixel panorama project on an orthonal grid 
-#Load PTGUI project file (xml type)
+#Load PTGUI project file 
 #identify loose images (without control points)
-#assumption: images are aligned on a regular grid -> align loose images on the grid
+#assumption: images should be aligned on a regular grid -> align loose images on the grid
 #save the modified PTGUI project
 
 #24.04 Adapted to latest Version of PTGUI 12.2
